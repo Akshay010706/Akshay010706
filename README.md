@@ -1,4 +1,4 @@
-# AKSHAY
+# Akshay010706
 # 💫 About Me:
 Python • DSA • Competitive Programming<br>Building projects, solving problems, and learning something new every day.
 
