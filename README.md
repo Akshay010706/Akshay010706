@@ -22,7 +22,7 @@ Passionate **Full-Stack Developer** and **Problem Solver** 🚀
 
 ## 🎖️ LeetCode Stats
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Aksky&theme=dark)](https://leetcode.com/u/Aksky/)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Aksky&theme=dark&fontSize=14)](https://leetcode.com/u/Aksky/)
 
 ---
 
@@ -50,11 +50,11 @@ Passionate **Full-Stack Developer** and **Problem Solver** 🚀
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Akshay010706&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay010706&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Akshay010706&theme=dark&hide_border=false&stroke=00FF00)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Akshay010706&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay010706&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
