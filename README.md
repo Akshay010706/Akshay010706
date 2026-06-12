@@ -60,16 +60,6 @@ Passionate **Full-Stack Developer** and **Problem Solver** 🚀
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Akshay010706&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 📈 Contribution Stats
 
 <div align="center">
