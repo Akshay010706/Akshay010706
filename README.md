@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akshay010706&icon=0&color=0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-pratap-singh-075ab322a/)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Aksky?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/Aksky/)
+
 
 </div>
 
@@ -22,7 +22,7 @@ Passionate **Full-Stack Developer** and **Problem Solver** 🚀
 
 ## 🎖️ LeetCode Stats
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Aksky&theme=dark&fontSize=14)](https://leetcode.com/u/Aksky/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Aksky?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/Aksky/)
 
 ---
 
